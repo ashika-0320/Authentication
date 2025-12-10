@@ -1,0 +1,25 @@
+// src/data/countries.ts
+
+export const countries = [
+    "Nepal",
+    "India",
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Australia",
+    "Japan",
+    "South Korea",
+    "China",
+    "Germany",
+    "France",
+    "Italy",
+    "Spain",
+    "Brazil",
+    "Mexico",
+    "South Africa",
+    "New Zealand",
+    "Singapore",
+    "Thailand",
+    "Malaysia",
+    "Philippines",
+];
